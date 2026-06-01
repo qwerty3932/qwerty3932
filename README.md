@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+          
+          
 <!--
 **qwerty3932/qwerty3932** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
